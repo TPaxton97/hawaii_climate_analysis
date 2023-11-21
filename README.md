@@ -1,5 +1,8 @@
-# sqlalchemy-challenge
+# Hawai'i Climate Analysis
 
-code for plotting precipitation analysis results: BCS Assistant
+### Summary:
+This project analyzes and visualizes weather station data from 2017 in Hawai'i and presents key findings in a Flask API.
 
-NOTE: VS Code failed to run app.py file code because of some issue with VS Code itself. Code for app.py file from line 74 down came from BCS Assistant.
+See climate_starter document for exploratory analysis. \
+See Resources folder for original data and sqlite database. \
+See app document for API setup. 
